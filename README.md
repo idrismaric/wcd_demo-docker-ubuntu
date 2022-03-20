@@ -1,2 +1,2 @@
-# wcd_demo-docker-ubuntu
-To bring docker files from ubuntu
+# wcd-nodejs-docker-demo
+To demo how to build a docker image and push over to docker hub
